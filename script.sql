@@ -1,3 +1,5 @@
+--postgresql 
+
 CREATE TABLE CUSTOMERS (
     id SERIAL PRIMARY KEY,
     name varchar,
